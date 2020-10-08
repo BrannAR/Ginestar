@@ -1,2 +1,2 @@
 # Ginestar
-Un nuevo framework CSS
+Un nuevo framework CSS de Brann
